@@ -1,0 +1,1 @@
+Repositorio com atividades e exercicios do curso Inicializando com ASP.NET Core da plataforma Desenvolvedor.io.
